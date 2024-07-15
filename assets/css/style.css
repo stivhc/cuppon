@@ -1,0 +1,14 @@
+#nav-bar {
+  background-color:#28A745;
+}
+
+.separator {
+  height: 1px;
+  background-color: #dee2e6;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#texto-footer {
+  color: #707070;
+}
